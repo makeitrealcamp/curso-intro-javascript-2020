@@ -11,14 +11,18 @@ Ingresa una frase> Hola Mundo
 HOLA MUNDO
 ```
 
+Comparte tu respuesta [en este enlace](https://foro.makeitreal.camp/t/respuestas-ejercicio-23/488).
+
 ## Ejercicio 24
 
 Escribe un programa que le pida una frase al usuario y le muestre el número de caracteres "a" que hay en la frase. Por ejemplo:
 
 ```
 Ingresa una frase> Hasta la próxima
-La frase tiene 4 caracteres
+La frase tiene 4 caracteres "a"
 ```
+
+Comparte tu respuesta [en este enlace](https://foro.makeitreal.camp/t/respuestas-ejercicio-24/489).
 
 ## Ejercicio 25
 
@@ -40,6 +44,8 @@ Ingresa una frase> esta es una prueba
 
 **Nota:** Aunque esta es una forma de generar contraseñas no se considera segura y no la recomendamos.
 
+Comparte tu respuesta [en este enlace](https://foro.makeitreal.camp/t/respuestas-ejercicio-25/490).
+
 ## Ejercicio 26
 
 Escribe un programa que le pida una frase al usuario y capitalice cada palabra. Por ejemplo:
@@ -49,9 +55,11 @@ Ingresa una frase> esta es una prueba
 Esta Es Una Prueba
 ```
 
+Comparte tu respuesta [en este enlace](https://foro.makeitreal.camp/t/respuestas-ejercicio-26/491).
+
 ## Ejercicio 27
 
-Escribe un programa que le pida una frase al usuario e imprima cada palabra (separadas por un espacio) en una nueva línea. Por ejemplo:
+Escribe un programa que le pida una frase al usuario e imprima cada palabra en una nueva línea. Por ejemplo:
 
 ```
 Ingresa una frase> esta es una prueba
@@ -60,6 +68,10 @@ es
 una
 prueba
 ```
+
+**Nota:** Las palabras se separan por espacio.
+
+Comparte tu respuesta [en este enlace](https://foro.makeitreal.camp/t/respuestas-ejercicio-27/492).
 
 ## Ejercicio 28 (Bonus)
 
@@ -80,3 +92,5 @@ Ingresa frase 1> Hola
 Ingresa frase 2> Bye
 No se encontraron caracteres en común
 ```
+
+Comparte tu respuesta [en este enlace](https://foro.makeitreal.camp/t/respuestas-ejercicio-28/493).
