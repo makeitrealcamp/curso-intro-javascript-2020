@@ -102,6 +102,8 @@ console.log(capitalizar("pedro perez")) // "Pedro Perez"
 console.log(capitalizar("make it real")) // "Make it Real"
 ```
 
+Comparte tu respuesta [en este enlace](https://foro.makeitreal.camp/t/respuestas-ejercicio-33/510). No incluyas el código de prueba.
+
 ## Ejercicio 34
 
 Escribe una función llamada `promedio` que reciba un arreglo de números y retorne el promedio los elementos.
@@ -115,4 +117,4 @@ console.log(promedio([7, 8, 9])) // 8
 console.log(promedio([300, 100])) // 200
 ```
 
-Comparte tu respuesta [en este enlace](https://foro.makeitreal.camp/t/respuestas-ejercicio-33/510). No incluyas el código de prueba.
+Comparte tu respuesta [en este enlace](https://foro.makeitreal.camp/t/respuestas-ejercicio-34/516). No incluyas el código de prueba.
