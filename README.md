@@ -32,3 +32,10 @@ Para los ejercicios vas a trabajar con una pareja a través de videollamada. El 
 * Puedes conocer personas que también están aprendiendo!
 
 La idea del trabajo en parejas es que haya **una persona que dicta y otra que escribe**. Idealmente la persona que dicta sabe cómo hacer el ejercicio y la persona que escribe va aprendiendo y ayuda a corregir. Sin embargo, en este proceso de aprendizaje es posible el trabajo en parejas sea un poco caótico y que los dos terminen escribiendo, tienen que ir encontrando la mejor forma de trabajo.
+
+## Ejercicios
+
+* [Día 1](dia-1.md)
+* [Día 2](dia-2.md)
+* [Día 3](dia-3.md)
+* [Día 4](dia-4.md)
