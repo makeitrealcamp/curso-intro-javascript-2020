@@ -175,9 +175,12 @@ Comparte tu respuesta [en este enlace](https://foro.makeitreal.camp/t/respuestas
 
 Escribe una función llamada `max` que reciba un objeto y retorne la llave que tenga el mayor valor:
 
-**Nota:** Puedes asumir que sólo hay un valor máximo
+**Nota:** Puedes asumir que sólo hay un valor máximo.
 
 ```javascript
+// escribe tu función acá
+
+// código de prueba
 console.log(max({ a: 1, b: 6, c: 3 })) // b
 ```
 
